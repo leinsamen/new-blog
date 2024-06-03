@@ -9,4 +9,5 @@ categories: Vorstellung
 
 Schön, dass du da bist und danke für deinen Besuch. Viel Spaß beim Lesen!
 
-> Genieße den Augenblick, denn morgen ist noch nicht und gestern ist vorbei. 🤠
+> Genieße den Augenblick, denn morgen ist noch nicht und gestern ist vorbei.
+# 🤠
