@@ -1,1 +1,1 @@
-# new_blog
+# new-blog
