@@ -1,0 +1,9 @@
+# Site settings
+title: My Blog
+author:
+  name: Ana
+  email: 
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
