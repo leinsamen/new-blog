@@ -1,1 +1,1 @@
-![Red flowers](images/redflowers.jpg)
+![Red flowers](/images/redflowers.jpg)
