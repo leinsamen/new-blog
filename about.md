@@ -1,7 +1,7 @@
 ---
 layout: dark
 title: About
-example: Hallo!.
+example: Hallo!
 ---
 
 Diese Seite beschrebt {{ site.title}} by {{ site.author.name }}.
